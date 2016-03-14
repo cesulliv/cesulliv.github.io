@@ -5,9 +5,8 @@ linear-gradient(
       rgba(255,255,255,0.5), 
       rgba(255,255,255,0.5)
     ),
-	url('../images/orchid2.jpg'); 
-	background-position: center center;
-	background-repeat: no-repeat;
+	url('../images/orchid3.png'); 
+	
 	background-size: cover;
 }
 
@@ -38,6 +37,7 @@ h1 {
 	font-size: 70px;
 	text-align: center;
 	letter-spacing: 10px;
+	padding-top: 25px;
 }
 
 h3 {

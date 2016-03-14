@@ -1,0 +1,54 @@
+body {
+	font-family: 'Muli', sans-serif;
+	background:	
+linear-gradient(
+      rgba(255,255,255,0.5), 
+      rgba(255,255,255,0.5)
+    ),
+	url('../images/orchid2.jpg'); 
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+nav {
+    padding: 20px; 
+	text-align: right;
+}
+
+nav ul {
+	list-style-type: none;
+}
+
+nav ul li {
+	display: inline-block;
+}
+
+nav ul li a {
+	padding: 10px 50px 0 0;
+	color: black;
+	text-decoration: none;
+	font-size: 18px;
+	letter-spacing: 2px;
+}
+
+
+
+h1 {
+	font-size: 70px;
+	text-align: center;
+	letter-spacing: 10px;
+}
+
+h3 {
+	font-size: 42px;
+	text-align: center;
+	letter-spacing: 5px;
+}
+
+img {
+	 background-size: cover;
+}
+
+
+
